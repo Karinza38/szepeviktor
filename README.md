@@ -2,14 +2,14 @@
 
 ## Jó napot kívánok! 👋
 
-<details><summary>Kattints ide 🇭🇺 a magyar fordításhoz</summary>
+<details><summary>Kattints ide a magyar fordításhoz <img alt="🇭🇺" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1fa.png?v8" width="20"></summary>
 
 - Ha én üzemeltetem a honlapodat/webes alkalmazásodat, 0% az esélye annak, hogy feltörjék
 - Gondoskodom arról, hogy semmiféle műszaki probléma ne merüljön fel
 - Az általam üzemeltetett honlapok és alkalmazások meglepően gyorsak lesznek
 - Követem a fejlesztést, forráskódot olvasok, kijavítom a hibákat
 - Teljesen automatizálom a telepítést
-- Non-stop monitorozom a honlap egészét: a fejlesztők elgépeléseitől a felhasználók kattintásaiig
+- Non-stop monitorozom a honlap egészét: a fejlesztők elgépelésétől a felhasználók kattintásáig
 - Közreműködök a szerver szoftverek fejlesztésében, és gyártóikkal kapcsolatban vagyok
 
 </details>
