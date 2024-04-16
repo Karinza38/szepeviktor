@@ -2,6 +2,18 @@
 
 ## Jó napot kívánok! 👋
 
+<details><summary>Kattints ide 🇭🇺 a magyar fordításhoz</summary>
+
+- Ha én üzemeltetem a honlapodat/webes alkalmazásodat, 0% az esélye annak, hogy feltörjék
+- Gondoskodom arról, hogy semmiféle műszaki probléma ne merüljön fel
+- Az általam üzemeltetett honlapok és alkalmazások meglepően gyorsak lesznek
+- Követem a fejlesztést, forráskódot olvasok, kijavítom a hibákat
+- Teljesen automatizálom a telepítést
+- Non-stop monitorozom a honlap egészét: a fejlesztők elgépeléseitől a felhasználók kattintásaiig
+- Közreműködök a szerver szoftverek fejlesztésében, és gyártóikkal kapcsolatban vagyok
+
+</details>
+
 I make your web application's life happy.
 
 ### Viktor is a doer
