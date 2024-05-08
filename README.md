@@ -14,7 +14,11 @@
 
 </details>
 
-I make your web application's life happy.
+I'm excited to introduce you to my **Advanced Hosting Services**. With a deep understanding of the challenges developers face, I've designed these services to provide hosting solutions that can handle the demands of modern web applications, webshops, websites.
+
+1. More robust operations then errors
+2. More security than attacks
+3. More speed than expected
 
 ### Viktor is a doer
 
@@ -34,7 +38,7 @@ I make your web application's life happy.
 
 [Contact me](mailto:viktor@szepe.net) today!
 
-Please consider sponsoring me monthly if you use my packages in an agency.
+Please consider sponsoring me monthly if you use my packages in production.
 
 [![Sponsor](https://github.com/szepeviktor/.github/raw/master/.github/assets/github-like-sponsor-button.svg)](https://github.com/sponsors/szepeviktor)
 
