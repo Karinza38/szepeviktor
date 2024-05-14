@@ -16,9 +16,10 @@
 
 I'm excited to introduce you to my **Advanced Hosting Services**. With a deep understanding of the challenges developers face, I've designed these services to provide hosting solutions that can handle the demands of modern web applications, webshops, websites.
 
-1. More robust operations than possible failures
-2. More security than attacks
-3. More speed than expected
+1. More _expertise_ than challenges
+2. More _robust operations_ than potential failures
+3. More _security_ than attacks
+4. More _speed_ than expected
 
 ### Viktor is a doer
 
